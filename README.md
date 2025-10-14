@@ -3,13 +3,13 @@
 🎓 Estudante de **Tecnologia em Sistemas para Internet** no IFPE - Campus Igarassu  
 💻 Apaixonado por desenvolvimento de sistemas, banco de dados e tecnologia  
 🔒 Interesse especial por segurança da informação e boas práticas de codificação  
-⚙️ Focado em projetos com **Java (POO)**, **Laravel (PHP)**, **TypeScript** e **MySQL**
+⚙️ Focado em projetos com **Java (POO)**, **Laravel (PHP)**, **TypeScript**, **MySQL** e **React**
 
 ---
 
 ## 🚀 Tecnologias que estou utilizando:
-- **Back-end:** Java, PHP (Laravel), Node.js (iniciante)
-- **Front-end:** TypeScript, JavaScript, HTML, CSS
+- **Back-end:** Java, PHP (Laravel), Node.js, Express
+- **Front-end:** TypeScript, JavaScript, HTML, CSS, React, Vite.js
 - **Banco de Dados:** MySQL, SQLite
 - **Versionamento:** Git & GitHub
 - **Outros:** Shell Script (básico), SimulIDE (IoT)
@@ -18,9 +18,8 @@
 
 ## 📌 Projeto em destaque:
 
-### [MyVaccine](https://github.com/RafaelNFig/MyVaccine)  
+### [MyVaccine](https://github.com/RafaelNFig/MyVaccine-2.git)  
 Sistema de controle de vacinação.  
-📌 Atualmente estou desenvolvendo uma **nova versão do MyVaccine utilizando Laravel** com autenticação, gerenciamento de vacinas, e mais recursos!
 
 ---
 
