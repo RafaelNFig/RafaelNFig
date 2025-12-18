@@ -1,48 +1,61 @@
-# 👋 Olá! Eu sou Rafael Figueiredo
+# 👨🏻‍💻 Rafael Figueiredo
 
-🎓 Estudante de **Tecnologia em Sistemas para Internet** no IFPE – Campus Igarassu  
-💻 Interesse em desenvolvimento de sistemas, banco de dados e arquitetura de software  
-🔒 Curioso por **segurança da informação** e boas práticas de codificação  
-⚙️ Foco atual em **Java (POO)**, **Laravel (PHP)**, **TypeScript**, **MySQL** e **React**
+**`Desenvolvedor Full Stack`**
 
----
+Me chamo Rafael José Nunes de Figueiredo e sou estudante de **Tecnologia em Sistemas para Internet** no **IFPE – Campus Igarassu**. Tenho interesse em desenvolvimento de sistemas, banco de dados e arquitetura de software, com atenção especial à **segurança da informação** e boas práticas de codificação. Atualmente, foco meus estudos e projetos em **Java (POO)**, **Laravel (PHP)**, **TypeScript**, **MySQL** e **React**, sempre buscando evoluir tecnicamente e construir soluções bem estruturadas.
 
-## 🚀 Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,php,laravel,nodejs,express,ts,js,react,vite,html,css,mysql,sqlite,git,github,bash" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelNFig&show_icons=true&theme=github_dark&hide_border=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelNFig&layout=compact&theme=github_dark&hide_border=true)
-
-
-
-</div>
+<p align="left">
+    <a href="https://github.com/RafaelNFig?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/RafaelNFig?color=2f2f2f&style=for-the-badge&labelColor=1c1c1c&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/RafaelNFig?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/RafaelNFig?color=3b3b3b&labelColor=1c1c1c&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-## 📌 Projeto em destaque
+### 🤖 Linguagens e Tecnologias
 
-### 🧪 MyVaccine  
-🔗 https://github.com/RafaelNFig/MyVaccine-2  
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+<img align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
+<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="React" title="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 
-Sistema de controle de vacinação, desenvolvido inicialmente em PHP puro e posteriormente migrado para Laravel, com foco em organização, segurança e escalabilidade.
+<br/>
+<br/>
 
 ---
 
-## 📫 Contato
+### 📊 Estatísticas
 
-- 📧 **Email:** rafaelfigueiredo14nunes@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/rafaeln-figueiredo
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=RafaelNFig&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br&hide_border=true" 
+  />
 
----
-
-⭐ Sempre aprendendo, evoluindo e escrevendo código com propósito.
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelNFig&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true" 
+  />
+</p>
