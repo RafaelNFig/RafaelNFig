@@ -21,9 +21,9 @@
 
 <div align="center">
 
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelNFig&show_icons=true&theme=github_dark&hide_border=true)
+![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelNFig&show_icons=true&theme=github_dark&hide_border=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelNFig&layout=compact&theme=github_dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelNFig&layout=compact&theme=github_dark&hide_border=true)
+
 
 </div>
 
