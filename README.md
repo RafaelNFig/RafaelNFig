@@ -1,33 +1,48 @@
 # 👋 Olá! Eu sou Rafael Figueiredo
 
-🎓 Estudante de **Tecnologia em Sistemas para Internet** no IFPE - Campus Igarassu  
-💻 Apaixonado por desenvolvimento de sistemas, banco de dados e tecnologia  
-🔒 Interesse especial por segurança da informação e boas práticas de codificação  
-⚙️ Focado em projetos com **Java (POO)**, **Laravel (PHP)**, **TypeScript**, **MySQL** e **React**
+🎓 Estudante de **Tecnologia em Sistemas para Internet** no IFPE – Campus Igarassu  
+💻 Interesse em desenvolvimento de sistemas, banco de dados e arquitetura de software  
+🔒 Curioso por **segurança da informação** e boas práticas de codificação  
+⚙️ Foco atual em **Java (POO)**, **Laravel (PHP)**, **TypeScript**, **MySQL** e **React**
 
 ---
 
-## 🚀 Tecnologias que estou utilizando:
-- **Back-end:** Java, PHP (Laravel), Node.js, Express
-- **Front-end:** TypeScript, JavaScript, HTML, CSS, React, Vite.js
-- **Banco de Dados:** MySQL, SQLite
-- **Versionamento:** Git & GitHub
-- **Outros:** Shell Script (básico), SimulIDE (IoT)
+## 🚀 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,php,laravel,nodejs,express,ts,js,react,vite,html,css,mysql,sqlite,git,github,bash" />
+
+</div>
 
 ---
 
-## 📌 Projeto em destaque:
+## 📊 GitHub Stats
 
-### [MyVaccine](https://github.com/RafaelNFig/MyVaccine-2.git)  
-Sistema de controle de vacinação.  
+<div align="center">
 
----
+![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelNFig&show_icons=true&theme=github_dark&hide_border=true)
 
-## 📫 Como me encontrar:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelNFig&layout=compact&theme=github_dark&hide_border=true)
 
-- 📧 Email: rafaelfigueiredo14nunes@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/rafaeln-figueiredo](https://www.linkedin.com/in/rafaeln-figueiredo)
+</div>
 
 ---
 
-⭐ **Sempre aprendendo e buscando novos desafios. Vamos codar juntos!**
+## 📌 Projeto em destaque
+
+### 🧪 MyVaccine  
+🔗 https://github.com/RafaelNFig/MyVaccine-2  
+
+Sistema de controle de vacinação, desenvolvido inicialmente em PHP puro e posteriormente migrado para Laravel, com foco em organização, segurança e escalabilidade.
+
+---
+
+## 📫 Contato
+
+- 📧 **Email:** rafaelfigueiredo14nunes@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rafaeln-figueiredo
+
+---
+
+⭐ Sempre aprendendo, evoluindo e escrevendo código com propósito.
