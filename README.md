@@ -12,13 +12,6 @@ Me chamo Rafael José Nunes de Figueiredo e sou estudante de **Tecnologia em Sis
             src="https://custom-icon-badges.demolab.com/github/stars/RafaelNFig?color=2f2f2f&style=for-the-badge&labelColor=1c1c1c&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/RafaelNFig?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/RafaelNFig?color=3b3b3b&labelColor=1c1c1c&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
     <a href="https://www.linkedin.com/in/rafaeln-figueiredo">
         <img 
             alt="LinkedIn" 
