@@ -26,7 +26,7 @@ Me chamo Rafael José Nunes de Figueiredo e sou estudante de **Tecnologia em Sis
 ### 🤖 Linguagens e Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,laravel,ts,js,react,nodejs,express,prisma,firebase,mysql,html,css,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,php,laravel,ts,js,react,nodejs,express,prisma,firebase,mysql,html,css,tailwind,git" />
 </div>
 
 
