@@ -30,7 +30,7 @@ Me chamo Rafael José Nunes de Figueiredo e sou estudante de **Tecnologia em Sis
         <img 
             alt="Instagram" 
             title="Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-@dev_em_dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-@Rafael-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
 </p>
