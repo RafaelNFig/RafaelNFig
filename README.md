@@ -53,7 +53,7 @@ Me chamo Rafael José Nunes de Figueiredo e sou estudante de **Tecnologia em Sis
 ### 📊 Estatísticas
 <p>
   <img 
-    align="center" 
+    align="left" 
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 10px;" 
@@ -61,9 +61,9 @@ Me chamo Rafael José Nunes de Figueiredo e sou estudante de **Tecnologia em Sis
   />
 
   <img 
-    align="center" 
+    align="left" 
     alt="Top Langs" 
-    height="180" 
+    height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelNFig&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true" 
   />
 </p>
